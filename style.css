@@ -371,7 +371,7 @@ footer ul li {
     }
 }
 
-/*@media screen and (max-width: 800px) {
+@media screen and (max-width: 800px) {
     nav {
         grid-template-columns: 33% 66%;
     }
@@ -404,4 +404,4 @@ footer ul li {
     .img-container {
         padding: 25px;
     }
-}*/
+}
