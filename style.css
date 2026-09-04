@@ -298,7 +298,7 @@ footer ul li {
     margin: 1rem;
 }
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 575px) {
     nav {
         display: none;
     }
